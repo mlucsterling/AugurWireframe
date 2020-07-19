@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+article {
+    width: 50%;
+}
+
+.sunFlex {
+    display: inline-block;
+}
